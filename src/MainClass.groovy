@@ -7,7 +7,7 @@ def swing = new SwingBuilder()
 
 
 def displayTemperature = {
-    Temperature t = new Temperature()
+    Temperature t = new Temperature() // call temperature class
 }
 def displayLength = {
     println("length class")

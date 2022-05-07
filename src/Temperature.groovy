@@ -26,8 +26,6 @@ class Temperature {
             String[] values = ["Celsius", "Kelvin", "Fahrenheit"]
             swing.scrollPane() {
                 JList<String> valueList = new JList<>(values)
-
-
             }
 
         }
