@@ -5,7 +5,6 @@ import java.awt.*
 // create a builder
 def swing = new SwingBuilder()
 
-
 def displayTemperature = {
     Temperature t = new Temperature() // call temperature class
 }
