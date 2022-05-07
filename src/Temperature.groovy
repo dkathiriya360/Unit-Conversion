@@ -27,7 +27,7 @@ class Temperature {
             swing.scrollPane() {
                 JList<String> valueList = new JList<>(values)
 
-            }
+            } //
 
         }
 

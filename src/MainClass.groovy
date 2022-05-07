@@ -13,7 +13,7 @@ def displayLength = {
 }
 def displayWeight = {
     println("weight class")
-}
+} //
 
 
 // compose the builder
